@@ -9,7 +9,7 @@ This plan is designed for AI/ML aspirants to build strong DSA fundamentals using
 
 | Day | Focus Area | Problems | Difficulty | Done |
 |-----|------------|----------|------------|------|
-| **Day 1** | Arrays + HashMaps | [Two Sum](https://leetcode.com/problems/two-sum/)<br>[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [ ] |
+| **Day 1** | Arrays + HashMaps | [Two Sum](https://leetcode.com/problems/two-sum/)<br>[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [ Yes] |
 | **Day 2** | Frequency Hashing | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)<br>[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [ ] |
 | **Day 3** | Sliding Window | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)<br>[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Medium / Easy | [ ] |
 | **Day 4** | Prefix Sum | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)<br>[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [ ] |
